@@ -7,7 +7,7 @@ Built with **Python (Django)** and **Bootstrap 5**, focusing on Object-Oriented 
 ---
 
 ## 📸 Project Screenshots
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Upload+Your+App+Screenshot+Here)
+(![Dashboard Preview](screenshots/p1.png))
 
 ---
 
