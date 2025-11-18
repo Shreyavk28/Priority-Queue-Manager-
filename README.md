@@ -7,8 +7,8 @@ Built with **Python (Django)** and **Bootstrap 5**, focusing on Object-Oriented 
 ---
 
 ## 📸 Project Screenshots
-![Dashboard Preview](my_portfolio/screenshots/p1.png)
-![Dashboard Preview](my_portfolio/screenshots/p2.png)
+![Dashboard Preview](screenshots/p1.png)
+![Dashboard Preview](screenshots/p2.png)
 
 ---
 
